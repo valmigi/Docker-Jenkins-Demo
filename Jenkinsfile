@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "valmigi/Docker-Jenkins-Demo"
+    registry = "valmigi/devops24aprilproject"
 
     registryCredential = 'docker-creds'
 
